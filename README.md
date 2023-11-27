@@ -69,7 +69,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 🔗 벨로그포스팅  (초기 기획): [https://velog.io/@ohtj6644/SpringBoot-팀-프로젝트-교육과정-최종프로젝트-기획-World](https://velog.io/@ohtj6644/SpringBoot-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95-%EC%B5%9C%EC%A2%85%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%ED%9A%8D-World)
 
-🔗 배포 url : [https://www.world.gh5.site](https://www.world.gh5.site/)
+🔗 배포 url : [https://www.world.gh5.site](https://www.world.gh5.site/) (서버기간 만료)
 
 🔗 깃헙 : [https://github.com/ohtj6644/](https://github.com/ohtj6644/gildong-project)project_world
 
@@ -111,11 +111,9 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 🔗 youtube 발표 : https://youtu.be/FCF4HXQEb_s
 
-🔗 벨로그포스팅 : [https://velog.io/@ohtj6644/JAVASpringBoot-개인프로젝트-홍길동-메이플스토리-도적직업군-인벤](https://velog.io/@ohtj6644/JAVASpringBoot-%EA%B0%9C%EC%9D%B8%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%8D%EA%B8%B8%EB%8F%99-%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC-%EB%8F%84%EC%A0%81%EC%A7%81%EC%97%85%EA%B5%B0-%EC%9D%B8%EB%B2%A4)
-
 🔗 깃헙 : https://github.com/ohtj6644/gildong-project
 
-🔗 기술서 :https://wiken.io/ken/12777
+🔗 기술서 : https://velog.io/@ohtj6644/gildong-프로젝트-기술서
 `jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
 
@@ -128,8 +126,8 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 **캠핑용품 커뮤니티 플랫폼 게시판**으로, 캠핑용품에 대한 리뷰 와 
 
 캠핑용품 개인장터 로 이루어져 있습니다.
-
-🔗 배포 url :https://tooltool.devp.kr/
+ 
+🔗 배포 url :https://tooltool.devp.kr/ (서버기간 만료)
 
 🔗 youtube 발표: https://youtu.be/tIPkSyGhpj0
 
@@ -151,7 +149,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 게시판페이지 입니다.
 
-🔗 배포 url : [http://sbb.ohtj.shop](http://sbb.ohtj.shop:8080/question/list)
+🔗 배포 url : [http://sbb.ohtj.shop](http://sbb.ohtj.shop:8080/question/list) (서버기간 만료)
 
  🔗 깃헙 : https://github.com/ohtj6644/sbb-1.git
 
