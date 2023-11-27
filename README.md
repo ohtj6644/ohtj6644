@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary> :red_heart: SBB 게시판 </summary>
+<summary> :heart: SBB 게시판 </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  SBB (게시판 / 개인프로젝트)
