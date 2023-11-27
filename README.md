@@ -11,7 +11,7 @@
 ### :grin: 프로젝트 목록
 
 <details>
-<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트) </summary>
+<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  도서관리 시스템
@@ -72,7 +72,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :purple_heart: 홍길동 (개인 프로젝트) </summary>
+<summary> :purple_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  홍길동(개인 프로젝트/게시판)
