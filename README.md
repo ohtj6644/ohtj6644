@@ -25,7 +25,7 @@
 <summary> ToolTool (팀프로젝트) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-## :blue_heart: ToolTool(팀 프로젝트 / 조원)
+## :star: :blue_heart: ToolTool(팀 프로젝트 / 조원)
 **캠핑용품 커뮤니티 플랫폼 게시판**으로, 캠핑용품에 대한 리뷰 와 
 
 캠핑용품 개인장터 로 이루어져 있습니다.
