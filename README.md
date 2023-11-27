@@ -1,7 +1,7 @@
-### 개발자 Glen 입니다 👋
+# 개발자 Glen 입니다 👋
 
 
-## :grin: 프로젝트 목록
+### :grin: 프로젝트 목록
 <details>
 <summary> 홍길동 (개인 프로젝트) </summary>
 
