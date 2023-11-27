@@ -1,4 +1,4 @@
-### Hi there 👋
+### 개발자 Glen 입니다 👋
 
 <!--
 **ohtj6644/ohtj6644** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
