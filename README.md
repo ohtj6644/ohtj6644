@@ -71,7 +71,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 🔗 배포 url : [https://www.world.gh5.site](https://www.world.gh5.site/) (서버기간 만료)
 
-🔗 깃헙 : [[https://github.com/ohtj6644/](https://github.com/ohtj6644/gildong-project)project_world](https://github.com/cojar/project_world)
+🔗 깃헙 : https://github.com/cojar/project_world
 
 🔗 기술서 :[https://velog.io/@ohtj6644/3차-팀프로젝트-WORLD-프로젝트-기술서](https://velog.io/@ohtj6644/3%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WORLD-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0%EC%84%9C)
 
