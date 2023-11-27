@@ -108,7 +108,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 🔗 깃헙 : https://github.com/Kael0595/ToolTool2
 
-🔗 기술서 : https://wiken.io/ken/12783
+🔗 기술서 : https://velog.io/@ohtj6644/ToolTool-프로젝트-기술서
 
 `jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
