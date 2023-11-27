@@ -29,6 +29,8 @@
  🔗 깃헙 : https://github.com/ohtj6644/attendanceSystem
 
  🔗 기술서 : 
+
+  `jAVA` `SpringBoot` `RESTful` `JPA` `AWS` `MongoDB`  `MVC` `HTML5` `CSS3` `jQuery` `Docker` `JavaScript `GitHub Action`
 </details>
 
 --------------------------
