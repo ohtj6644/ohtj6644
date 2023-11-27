@@ -8,7 +8,7 @@
 
 --------------------------
 
-### :smile: 진행중인 프로젝트 
+### :smile: in progress projects
 
 <details>
 <summary> :heart: 우리회사출석부 (개인프로젝트/근태관리 시스템) </summary>
@@ -35,7 +35,7 @@
 
 --------------------------
 
-### :grin: 완료 프로젝트 목록
+### :grin: Complete Projects 
 
 
 
