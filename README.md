@@ -81,7 +81,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :heart: DevNews(개인 프로젝트 / 게시판 ) </summary>
+<summary> :green_heart: DevNews(개인 프로젝트 / 게시판 ) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  DevNews
@@ -101,7 +101,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :purple_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티) </summary>
+<summary> :yellow_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  홍길동(개인 프로젝트/게시판)
@@ -121,7 +121,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :blue_heart: ToolTool (팀프로젝트/게시판 커뮤니티) </summary>
+<summary> :orange_heart: ToolTool (팀프로젝트/게시판 커뮤니티) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  ToolTool(팀 프로젝트 / 조원)
