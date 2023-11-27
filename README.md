@@ -14,7 +14,7 @@
 <summary> :purple_heart: 도서관리 시스템 (개인 프로젝트) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-##  World (팀 프로젝트 / 조장)
+##  도서관리 시스템
 회원 , 도서 , 대여 테이블로 이루어진 시스템입니다. 
 
 회원가입 및 로그인기능 / 도서등록 / 도서대여,반납 / 대여기록 확인 이 가능합니다
@@ -22,6 +22,8 @@
 🔗 **깃헙 :** https://github.com/ohtj6644/bookrent2
 
 🔗 기술서 **:** [https://velog.io/@ohtj6644/Spring-Boot-도서관-관리-시스템-CRUD-CICD-GitHub-Action-배포](https://velog.io/@ohtj6644/Spring-Boot-%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-CRUD-CICD-GitHub-Action-%EB%B0%B0%ED%8F%AC)
+
+ `jAVA` `SpringBoot` `JPA` `AWS` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action`
 </details>
 
 
@@ -43,6 +45,8 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 🔗 깃헙 : [https://github.com/ohtj6644/](https://github.com/ohtj6644/gildong-project)project_world
 
 🔗 기술서 :[https://velog.io/@ohtj6644/3차-팀프로젝트-WORLD-프로젝트-기술서](https://velog.io/@ohtj6644/3%EC%B0%A8-%ED%8C%80%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-WORLD-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B8%B0%EC%88%A0%EC%84%9C)
+
+`jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
 
 
@@ -62,6 +66,8 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 🔗 깃헙 : https://github.com/ohtj6644/devnews.git
 
 🔗 계획서 :[https://velog.io/@ohtj6644/springBoot-프로젝트-DevNews-기획](https://velog.io/@ohtj6644/springBoot-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-DevNews-%EA%B8%B0%ED%9A%8D)
+
+`jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
 
 
@@ -81,6 +87,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 🔗 깃헙 : https://github.com/ohtj6644/gildong-project
 
 🔗 기술서 :https://wiken.io/ken/12777
+`jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
 
 
@@ -102,6 +109,8 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 🔗 깃헙 : https://github.com/Kael0595/ToolTool2
 
 🔗 기술서 : https://wiken.io/ken/12783
+
+`jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
 
 <details>
