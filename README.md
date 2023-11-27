@@ -126,7 +126,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
  🔗 깃헙 : https://github.com/ohtj6644/sbb-1.git
 
- 🔗 기술서 : https://wiken.io/ken/12775
+ 🔗 기술서 : https://velog.io/@ohtj6644/sbb-스프링부트-기술서
 
 </details>
 
