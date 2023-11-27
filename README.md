@@ -1,8 +1,8 @@
-## 개발자 Glen 입니다 👋
+## Hello! i'm Glen ! 👋
 
 --------------------------
 
- `도전을 즐기는  개발자`   오택주 입니다!   
+ `도전을 즐기는 개발자`   Glen(오택주) 입니다!   
  
  `jAVA` `SpringBoot` `JPA` `python`  `AWS` `NAVER Cloud` `Slack` `MariaDB` `MongoDB` `MSA` `MVC` `HTML5` `CSS3` `RESTful` `JavaScript` `MySQL` `jQuery` `Docker` `GitHub Action`
 
