@@ -81,7 +81,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :green_heart: DevNews (개인 프로젝트 / 게시판 ) </summary>
+<summary> :green_heart: DevNews (개인 프로젝트 / 뉴스 게시판 ) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  DevNews
