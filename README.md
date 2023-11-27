@@ -3,10 +3,10 @@
 
 ### :grin: 프로젝트 목록
 <details>
-<summary> 홍길동 (개인 프로젝트) </summary>
+<summary> :purple_heart: 홍길동 (개인 프로젝트) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-## :purple_heart: 홍길동(개인 프로젝트)
+##  홍길동(개인 프로젝트)
 메이플스토리 도적직업 전용 인벤 으로, 도적직업군의 유저들이 정보를 공유할 수 있는 게시판입니다. 
 
 🔗 배포 url  : [http://gildong.ohtj.shop](http://www.ohtj.shop:8080/) (서버기간 만료)
@@ -22,10 +22,10 @@
 
 
 <details>
-<summary> ToolTool (팀프로젝트) </summary>
+<summary> :blue_heart: ToolTool (팀프로젝트) </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-## :star: :blue_heart: ToolTool(팀 프로젝트 / 조원)
+##  ToolTool(팀 프로젝트 / 조원)
 **캠핑용품 커뮤니티 플랫폼 게시판**으로, 캠핑용품에 대한 리뷰 와 
 
 캠핑용품 개인장터 로 이루어져 있습니다.
@@ -42,10 +42,10 @@
 </details>
 
 <details>
-<summary> SBB 게시판 </summary>
+<summary> :red_heart: SBB 게시판 </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
-## :red_heart: SBB (게시판 / 개인프로젝트)
+##  SBB (게시판 / 개인프로젝트)
 점프 투 스프링부트 서적으로 공부하며 만든 
 
 게시판페이지 입니다.
