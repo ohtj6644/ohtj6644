@@ -57,7 +57,7 @@
 
 
 <details>
-<summary> :blue_heart: World (팀 프로젝트 / 게임코드 쇼핑몰 ) </summary>
+<summary> :blue_heart: World (팀 프로젝트 / 게임코드 쇼핑몰 ) 2023-08-01 ~ 2023-08-30 </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  World (팀 프로젝트 / 조장)
