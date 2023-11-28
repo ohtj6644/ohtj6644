@@ -40,7 +40,7 @@
 
 
 <details>
-<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템) </summary>
+<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템)2023-10-14~2023-10-18</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  도서관리 시스템
