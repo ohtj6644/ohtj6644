@@ -101,7 +101,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :yellow_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티) </summary>
+<summary> :yellow_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티)2023-07-02~2023-08-01</summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  홍길동(개인 프로젝트/게시판)
