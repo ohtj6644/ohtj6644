@@ -119,7 +119,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :orange_heart: ToolTool (팀프로젝트/게시판 커뮤니티) </summary>
+<summary> :orange_heart: ToolTool (팀프로젝트/게시판 커뮤니티) 2023-06-07~2023-07-13 </summary>
 
 <!-- summary 아래 한칸 공백 두어야함 -->
 ##  ToolTool(팀 프로젝트 / 조원)
