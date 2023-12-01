@@ -31,7 +31,7 @@
 
  🔗 기술서 : 
 
-  `jAVA` `SpringBoot` `RESTful` `JPA` `AWS` `MongoDB`  `MVC` `HTML5` `CSS3` `jQuery` `Docker` `JavaScript `GitHub Action`
+  `jAVA` `SpringBoot` `RESTful` `JPA` `AWS` `MongoDB`  `MVC` `HTML5` `CSS3` `jQuery` `Docker` `JavaScript` `GitHub Action`
 </details>
 
 --------------------------
