@@ -11,11 +11,11 @@
 ### :smile: in progress projects
 
 <details>
-<summary> :heart: 우리회사출석부 (개인프로젝트/근태관리 시스템) 2023-11-21~ </summary>
+<summary> :heart: 우리회사 근태관리 (개인프로젝트/근태관리 시스템) 2023-11-21~ </summary>
 
 <!-- summary  -->
 
-##  우리회사출석부 
+##  우리회사 근태관리 
 
 사내 근태관리 시스템 입니다.
 
