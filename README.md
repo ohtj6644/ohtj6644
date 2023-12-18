@@ -34,31 +34,6 @@
   `jAVA` `SpringBoot` `RESTful` `JPA` `AWS` `MongoDB`  `MVC` `HTML5` `CSS3` `jQuery` `Ajax` `Docker` `JavaScript` `GitHub Action` `bootstrap`
 </details>
 
---------------------------
-
-### :grin: Sub Projects 
-
-
-
-<details>
-<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템)2023-10-14~2023-10-18</summary>
-
-<!-- summary  -->
-
-##  도서관리 시스템
-
-회원 , 도서 , 대여 테이블로 이루어진 시스템입니다. 
-
-회원가입 및 로그인기능 / 도서등록 / 도서대여,반납 / 대여기록 확인 이 가능합니다
-
-🔗 **깃헙 :** https://github.com/ohtj6644/bookrent2
-
-🔗 기술서 **:** [https://velog.io/@ohtj6644/Spring-Boot-도서관-관리-시스템-CRUD-CICD-GitHub-Action-배포](https://velog.io/@ohtj6644/Spring-Boot-%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-CRUD-CICD-GitHub-Action-%EB%B0%B0%ED%8F%AC)
-
- `jAVA` `SpringBoot` `JPA` `AWS` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action`
-</details>
-
-
 <details>
 <summary> :blue_heart: World (팀 프로젝트 / 게임코드 쇼핑몰 ) 2023-08-01 ~ 2023-08-30 </summary>
 
@@ -152,6 +127,33 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 `jAVA` `SpringBoot` `JPA` `NAVER Cloud` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action` `JavaScript`  `jQuery`
 </details>
+
+--------------------------
+
+### :grin: Sub Projects 
+
+
+
+<details>
+<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템)2023-10-14~2023-10-18</summary>
+
+<!-- summary  -->
+
+##  도서관리 시스템
+
+회원 , 도서 , 대여 테이블로 이루어진 시스템입니다. 
+
+회원가입 및 로그인기능 / 도서등록 / 도서대여,반납 / 대여기록 확인 이 가능합니다
+
+🔗 **깃헙 :** https://github.com/ohtj6644/bookrent2
+
+🔗 기술서 **:** [https://velog.io/@ohtj6644/Spring-Boot-도서관-관리-시스템-CRUD-CICD-GitHub-Action-배포](https://velog.io/@ohtj6644/Spring-Boot-%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-CRUD-CICD-GitHub-Action-%EB%B0%B0%ED%8F%AC)
+
+ `jAVA` `SpringBoot` `JPA` `AWS` `MariaDB`  `MVC` `HTML5` `CSS3` `Docker` `GitHub Action`
+</details>
+
+
+
 
 <details>
 <summary> :heart: SBB 게시판 (개인 프로젝트/SpingBoot 교육자료) 2023-04 </summary>
