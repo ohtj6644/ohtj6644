@@ -11,7 +11,7 @@
 ### :smile: Main Projects
 
 <details>
-<summary> :computer: 우리회사 근태관리 (개인프로젝트/근태관리 시스템) 2023-11-21~ [진행중] </summary>
+<summary> :computer: 우리회사 근태관리 (개인프로젝트/사내 근태관리 시스템) 2023-11-21~ [진행중] </summary>
 
 <!-- summary  -->
 
