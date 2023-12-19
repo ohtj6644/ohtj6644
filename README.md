@@ -11,7 +11,7 @@
 ### :smile: Main Projects
 
 <details>
-<summary> :heart: 우리회사 근태관리 (개인프로젝트/근태관리 시스템) 2023-11-21~ [진행중] </summary>
+<summary> :computer: 우리회사 근태관리 (개인프로젝트/근태관리 시스템) 2023-11-21~ [진행중] </summary>
 
 <!-- summary  -->
 
@@ -35,7 +35,7 @@
 </details>
 
 <details>
-<summary> :blue_heart: World (팀 프로젝트 / 게임코드 쇼핑몰 ) 2023-08-01 ~ 2023-08-30 </summary>
+<summary> :computer: World (팀 프로젝트 / 게임코드 쇼핑몰 ) 2023-08-01 ~ 2023-08-30 </summary>
 
 <!-- summary  -->
 
@@ -63,7 +63,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :green_heart: DevNews (개인 프로젝트 / 뉴스 게시판 ) 2023-08-04~2023-09-16 </summary>
+<summary> :computer: DevNews (개인 프로젝트 / 뉴스 게시판 ) 2023-08-04~2023-09-16 </summary>
 
 <!-- summary  -->
 
@@ -85,7 +85,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :yellow_heart: 홍길동 (개인 프로젝트/게시판 커뮤니티)2023-07-02~2023-08-01</summary>
+<summary> :computer: 홍길동 (개인 프로젝트/게시판 커뮤니티)2023-07-02~2023-08-01</summary>
 
 <!-- summary -->
 
@@ -105,7 +105,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :orange_heart: ToolTool (팀프로젝트/게시판 커뮤니티) 2023-06-07~2023-07-13 </summary>
+<summary> :computer: ToolTool (팀프로젝트/게시판 커뮤니티) 2023-06-07~2023-07-13 </summary>
 
 <!-- summary  -->
 
@@ -135,7 +135,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :purple_heart: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템)2023-10-14~2023-10-18</summary>
+<summary> :computer: 도서관리 시스템 (개인 프로젝트/ 도서관리 시스템)2023-10-14~2023-10-18</summary>
 
 <!-- summary  -->
 
@@ -156,7 +156,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 
 <details>
-<summary> :heart: SBB 게시판 (개인 프로젝트/SpingBoot 교육자료) 2023-04 </summary>
+<summary> :computer: SBB 게시판 (개인 프로젝트/SpingBoot 교육자료) 2023-04 </summary>
 
 <!-- summary  -->
 
