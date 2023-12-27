@@ -130,7 +130,7 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 --------------------------
 
-### :grin: Sub Projects 
+### :grin: Sub & Study Projects 
 
 
 
