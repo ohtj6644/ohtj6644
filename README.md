@@ -30,6 +30,10 @@
  🔗 깃헙 : https://github.com/ohtj6644/attendanceSystem
 
  🔗 기술서 :  
+ 
+ 🔗 작업LOG :   https://github.com/ohtj6644/attendanceSystem/blob/main/README.md
+
+
 
   `jAVA` `SpringBoot` `RESTful` `JPA` `AWS` `MongoDB`  `MVC` `HTML5` `CSS3` `jQuery` `Ajax` `Docker` `JavaScript` `GitHub Action` `bootstrap`
 </details>
