@@ -6,7 +6,7 @@
  
  Used : `jAVA` `SpringBoot` `JPA` `python`  `AWS` `NAVER Cloud` `Slack` `MySQL` `MariaDB` `MongoDB` `CUBRID` `Oracle` `git` `MSA` `MVC` `HTML5` `CSS3` `RESTful` `JavaScript` `MySQL` `jQuery` `Ajax` `Docker` `GitHub Action` `Bootstrap` `Linux` `mac` `Window`
 
--------------------------- 
+--------------------------- 
 
 ### :smile: Main Projects
 
