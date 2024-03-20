@@ -25,13 +25,16 @@
 
 관리자는  휴가승인, 사용지추가, 직원별 근태 확인 이 가능합니다 
 
-🔗 배포 url : 
 
  🔗 깃헙 : https://github.com/ohtj6644/attendanceSystem
 
  🔗 기능정의서 : https://github.com/ohtj6644/attendanceSystem/blob/main/output/%EA%B7%BC%ED%83%9C%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C.xlsx  
+
+ 🔗 화면 정의서  : https://github.com/ohtj6644/attendanceSystem/blob/main/output/%EC%82%AC%EC%9A%A9%EC%9E%90%ED%99%94%EB%A9%B4%20%EC%A0%95%EC%9D%98%EC%84%9C.pptx
  
  🔗 작업LOG :   https://github.com/ohtj6644/attendanceSystem/blob/main/README.md
+ 
+ 
 
 
 
