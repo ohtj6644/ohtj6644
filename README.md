@@ -29,7 +29,7 @@
 
  🔗 깃헙 : https://github.com/ohtj6644/attendanceSystem
 
- 🔗 기술서 :  
+ 🔗 기능정의서 : https://github.com/ohtj6644/attendanceSystem/blob/main/output/%EA%B7%BC%ED%83%9C%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C.xlsx  
  
  🔗 작업LOG :   https://github.com/ohtj6644/attendanceSystem/blob/main/README.md
 
