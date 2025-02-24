@@ -24,7 +24,7 @@
 
  🔗 깃헙 : https://github.com/ohtj6644/reserveSys
 
- 🔗 기능정의서 :
+ 🔗 요구사항 정의서 :https://github.com/ohtj6644/reserveSys/blob/main/src/main/resources/output/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.xlsx
 
  🔗 화면 정의서  :
  
