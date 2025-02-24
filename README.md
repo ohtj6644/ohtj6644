@@ -26,7 +26,7 @@
 
  🔗 요구사항 정의서 :https://github.com/ohtj6644/reserveSys/blob/main/src/main/resources/output/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EC%A0%95%EC%9D%98%EC%84%9C.xlsx
 
- 🔗 화면 정의서  :
+ 🔗 화면 정의서  :https://github.com/ohtj6644/reserveSys/blob/main/src/main/resources/output/%EB%8F%84%EC%84%9C%EA%B4%80%EB%A6%AC%20%EC%8B%9C%EC%8A%A4%ED%85%9C_%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84%EC%84%9C_V0.1_20250225.pptx
  
  
  
