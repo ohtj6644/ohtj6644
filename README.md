@@ -11,20 +11,18 @@
 ### :smile: Main Projects
 
 <details>
-<summary> :computer: Testers  (개인프로젝트/시험문제 출제 및 풀이 웹서비스) 2024-06-26 ~  </summary>
+<summary> :computer: 도서관 도서관리프로그램 (개인프로젝트/도서관리 시스템템) 2025-02-17 ~ 2025-02-25 </summary>
 
 <!-- summary  -->
 
-##  테스터스 
+##  도서관 도서관리프로그램 
 
-시험문제 출제 및 풀이 서비스 입니다.
+도서관 도서관리프로그램입니다.
 
-관리자는 시험문제를 출제 할 수 있습니다.
-
-사용자는 시험문제를 풀고 오답정리 , 점수확인 등 이 가능합니다 
+관리자가 대여, 도서등록 등 메뉴를 이용하여 도서관리를 할 수 있습니다. 
 
 
- 🔗 깃헙 : https://github.com/ohtj6644/Testers
+ 🔗 깃헙 : https://github.com/ohtj6644/reserveSys
 
  🔗 기능정의서 :
 
