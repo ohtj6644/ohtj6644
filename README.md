@@ -167,6 +167,20 @@ PC, 콘솔 게임 코드 판매 쇼핑몰 입니다.
 
 ### :grin: Sub & Study Projects 
 
+<details>
+<summary> :computer: 파이썬 장고 공부 게시판 2025-03-10~</summary>
+
+<!-- summary  -->
+
+##  게시판 (Python)
+DJango Python 학습용 게시판 작업입니다 
+
+
+🔗 **깃헙 :** https://github.com/ohtj6644/202503_jangoStudy
+
+
+ `Python` `DJango`  `HTML5` `CSS3` 
+</details>
 
 
 <details>
